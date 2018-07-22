@@ -3,7 +3,9 @@
 
 This is a list of my publications.
 
-Research interests: Computational Methods (Theory, Algorithms and Applications)
+__Research interests__: Computational Methods (Theory, Algorithms and Applications)
+
+Please feel free to also check my wiki at: [http://wiki.kourouklides.com/](http://wiki.kourouklides.com/)
 
 
 ### Journals
