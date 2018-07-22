@@ -3,6 +3,9 @@
 
 This is a list of my publications.
 
+Research interests: Computational Methods (Theory, Algorithms and Applications)
+
+
 ### Journals
 Coming soon
 
