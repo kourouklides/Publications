@@ -8,7 +8,7 @@ This is a list of my publications.
 
 __Research interests__: Computational Methods (Theory, Algorithms and Applications) for Modelling, Simulation, Bayesian Inference, Machine Learning and Signal Processing
 
-__Areas of Application__: _Coming soon_
+__Areas of Application__: Coming soon
 
 Please feel free to also check my personal wiki at: [http://wiki.kourouklides.com/](http://wiki.kourouklides.com/)
 <br>
