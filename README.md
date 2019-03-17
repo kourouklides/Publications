@@ -31,4 +31,4 @@ Coming soon
 <br>
 
 ### Preprints
-Coming soon
+* Tolias, K., Kourouklides, I., & Chatzis, S. (2018). Amortized Context Vector Inference for Sequence-to-Sequence Networks. _arXiv preprint arXiv:1805.09039_. \[[link](https://arxiv.org/pdf/1805.09039v9.pdf)]
