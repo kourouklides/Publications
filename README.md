@@ -8,9 +8,9 @@ This is a list of my publications.
 
 __Research interests__: Computational Methods (Theory, Algorithms and Applications) for Modelling, Simulation, Bayesian Inference, Machine Learning and Signal Processing
 
-__Areas of Application__: Coming soon
+__Areas of Application__: (Multi-disciplinary)
 
-Please feel free to also check my personal wiki at: [http://wiki.kourouklides.com/](http://wiki.kourouklides.com/)
+Please feel free to also check my professional wiki at: [http://wiki.kourouklides.com/]([http://wiki.kourouklides.com/](https://kourouklides.miraheze.org/))
 <br>
 <br>
 <br>
@@ -31,4 +31,4 @@ Coming soon
 <br>
 
 ### Preprints
-* Tolias, K., Kourouklides, I., & Chatzis, S. (2018). Amortized Context Vector Inference for Sequence-to-Sequence Networks. _arXiv preprint arXiv:1805.09039_. \[[PDF](https://arxiv.org/pdf/1805.09039v9.pdf)]
+* Tolias, K., __Kourouklides, I.__, & Chatzis, S. (2018). Amortized Context Vector Inference for Sequence-to-Sequence Networks. _arXiv preprint arXiv:1805.09039_. \[[PDF](https://arxiv.org/pdf/1805.09039v9.pdf)]
