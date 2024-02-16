@@ -10,7 +10,7 @@ __Research interests__: Computational Methods (Theory, Algorithms and Applicatio
 
 __Areas of Application__: (Multi-disciplinary)
 
-Please feel free to also check my professional wiki at: [http://wiki.kourouklides.com/]([http://wiki.kourouklides.com/](https://kourouklides.miraheze.org/))
+Please feel free to also check my __ORCID public record__ at: [https://orcid.org/0000-0001-6824-2127](https://orcid.org/0000-0001-6824-2127)
 <br>
 <br>
 <br>
